@@ -2,7 +2,7 @@
 
 **The following text contains spoilers for DDLC - Proceed only if you've finished the game**
 
-![alt text](https://github.com/TheSlipper/Just-Monika/blob/master/assets/img/Menu_art_m.png)
+![alt text](https://github.com/TheSlipper/Just-Monika/blob/master/assets/img/justMonikaLogoPrototype.png)
 
  Just Monika is a fan game inspired by Doki Doki Literature Club made by Team Salvato. This project attempts to make Monika a fully developed AI that is able to handle easy conversations with the user.
 
