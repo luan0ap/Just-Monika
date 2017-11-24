@@ -1,6 +1,6 @@
 # Just-Monika
 
-**The following text contains spoilers for DDLC - Proceed only if you've finished the game**
+**The following text may contain spoilers for DDLC - Proceed only if you've finished the game or if you're ok with them**
 
 ![alt text](https://github.com/TheSlipper/Just-Monika/blob/master/assets/img/justMonikaLogoPrototype.png)
 
